@@ -12,7 +12,9 @@ export default function Footer() {
             <Link to="/">
               <h1 className=" text-white">Gr8KEV</h1>
             </Link>
-            <p className="text-white">Your go-to store for quality products.</p>
+            <p className="text-white">
+              Your go-to platform for quality Hr services.
+            </p>
             <p className="text-white">Email: support@luane.com</p>
             <p className="text-white">Phone: +123 456 7890</p>
           </div>
