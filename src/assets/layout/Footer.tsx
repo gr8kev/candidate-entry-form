@@ -15,7 +15,7 @@ export default function Footer() {
             <p className="text-white">
               Your go-to platform for quality Hr services.
             </p>
-            <p className="text-white">Email: support@luane.com</p>
+            <p className="text-white">Email: support@gr8kev.com</p>
             <p className="text-white">Phone: +123 456 7890</p>
           </div>
 
